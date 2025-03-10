@@ -74,6 +74,10 @@ listen web_tcp
 	server s2 127.0.0.1:9999 check inter 3s
 
 ```
+### Задание 2
+
+![alt text](img/3.png)
+![alt text](img/4.png)
 
 ```
 global
